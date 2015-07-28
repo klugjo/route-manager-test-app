@@ -1,0 +1,34 @@
+{
+  "name": "route-manager-test-app",
+  "version": "0.0.1",
+  "description": "Simple test app to demonstrate the use of express-route-manager",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.13.2",
+    "express": "^4.13.1",
+    "express-route-manager": "^0.0.2",
+    "jade": "^1.11.0",
+    "q": "^1.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/klugjo/route-manager-test-app.git"
+  },
+  "keywords": [
+    "express",
+    "route",
+    "controller",
+    "test"
+  ],
+  "author": "Klughertz Jonathan <klughertz.j@gmail.com> (http://klugjo.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/klugjo/route-manager-test-app/issues"
+  },
+  "homepage": "https://github.com/klugjo/route-manager-test-app"
+}
