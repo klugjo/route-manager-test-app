@@ -57,3 +57,12 @@ exports.jadeTest = function (req) {
         }
     });
 };
+
+exports.test404 = function (req) {
+
+    return Q.fcall(function () {
+        return {
+            notFound: true
+        };
+    })
+};

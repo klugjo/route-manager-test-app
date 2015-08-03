@@ -8,6 +8,7 @@
     "express": "^4.13.1",
     "express-route-manager": "^0.0.2",
     "jade": "^1.11.0",
+    "lodash": "^3.10.0",
     "q": "^1.4.1"
   },
   "devDependencies": {},
